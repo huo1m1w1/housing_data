@@ -1,3 +1,3 @@
 # housing_data
 
-Using Python and selenium scrape data from https://www.zoopla.co.uk/.
+Using Python and selenium scrape housing data from https://www.zoopla.co.uk/.
